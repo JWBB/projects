@@ -1,0 +1,2 @@
+1:在使用v-on时发现:v-on:submit,并没出现作用,将其改正为,v-on:click实现功能;
+trnsl.1.1.20171231T125329Z.693db322bbb3ec2a.166ebc398eeb225806c420076e9eeae680e2f43a
